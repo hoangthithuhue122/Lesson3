@@ -1,0 +1,61 @@
+﻿@model IEnumerable<HtthLesson06.Models.HtthMember>
+
+@{
+    ViewData["Title"] = "Danh sách thành viên";
+}
+<div class="card p-3">
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="HtthCreate">Create New</a>
+</p>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.HtthMemberId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.HtthUserName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.HtthPassword)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.HtthFullName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.HtthEmail)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.HtthMemberId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HtthUserName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HtthPassword)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HtthFullName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HtthEmail)
+            </td>
+            <td>
+                @Html.ActionLink("Sửa", "HtthEdit", new { id=item.HtthMemberId }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+</div>

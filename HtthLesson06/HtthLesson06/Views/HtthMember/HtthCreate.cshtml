@@ -1,0 +1,50 @@
+﻿@model HtthLesson06.Models.HtthMember
+
+@{
+    ViewData["Title"] = "HtthCreate";
+}
+
+<h1>HtthCreate</h1>
+
+<h4>HtthMember</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="HtthCreate">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="HtthMemberId" class="control-label"></label>
+                <input asp-for="HtthMemberId" class="form-control" />
+                <span asp-validation-for="HtthMemberId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="HtthUserName" class="control-label"></label>
+                <input asp-for="HtthUserName" class="form-control" />
+                <span asp-validation-for="HtthUserName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="HtthPassword" class="control-label"></label>
+                <input asp-for="HtthPassword" class="form-control" />
+                <span asp-validation-for="HtthPassword" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="HtthFullName" class="control-label"></label>
+                <input asp-for="HtthFullName" class="form-control" />
+                <span asp-validation-for="HtthFullName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="HtthEmail" class="control-label"></label>
+                <input asp-for="HtthEmail" class="form-control" />
+                <span asp-validation-for="HtthEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

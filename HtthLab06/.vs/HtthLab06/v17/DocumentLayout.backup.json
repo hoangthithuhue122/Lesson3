@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ThietKeWeb1\\HtthLab06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF82413-C9D2-4BA8-993F-7A8A79417F8C}|HtthLab06\\HtthLab06.csproj|d:\\thietkeweb1\\htthlab06\\htthlab06\\controllers\\htthstudentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF82413-C9D2-4BA8-993F-7A8A79417F8C}|HtthLab06\\HtthLab06.csproj|solutionrelative:htthlab06\\controllers\\htthstudentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF82413-C9D2-4BA8-993F-7A8A79417F8C}|HtthLab06\\HtthLab06.csproj|d:\\thietkeweb1\\htthlab06\\htthlab06\\views\\htthstudent\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FF82413-C9D2-4BA8-993F-7A8A79417F8C}|HtthLab06\\HtthLab06.csproj|solutionrelative:htthlab06\\views\\htthstudent\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF82413-C9D2-4BA8-993F-7A8A79417F8C}|HtthLab06\\HtthLab06.csproj|d:\\thietkeweb1\\htthlab06\\htthlab06\\views\\htthstudent\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FF82413-C9D2-4BA8-993F-7A8A79417F8C}|HtthLab06\\HtthLab06.csproj|solutionrelative:htthlab06\\views\\htthstudent\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF82413-C9D2-4BA8-993F-7A8A79417F8C}|HtthLab06\\HtthLab06.csproj|d:\\thietkeweb1\\htthlab06\\htthlab06\\models\\htthstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF82413-C9D2-4BA8-993F-7A8A79417F8C}|HtthLab06\\HtthLab06.csproj|solutionrelative:htthlab06\\models\\htthstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF82413-C9D2-4BA8-993F-7A8A79417F8C}|HtthLab06\\HtthLab06.csproj|d:\\thietkeweb1\\htthlab06\\htthlab06\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FF82413-C9D2-4BA8-993F-7A8A79417F8C}|HtthLab06\\HtthLab06.csproj|solutionrelative:htthlab06\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF82413-C9D2-4BA8-993F-7A8A79417F8C}|HtthLab06\\HtthLab06.csproj|d:\\thietkeweb1\\htthlab06\\htthlab06\\models\\htthbranch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF82413-C9D2-4BA8-993F-7A8A79417F8C}|HtthLab06\\HtthLab06.csproj|solutionrelative:htthlab06\\models\\htthbranch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF82413-C9D2-4BA8-993F-7A8A79417F8C}|HtthLab06\\HtthLab06.csproj|d:\\thietkeweb1\\htthlab06\\htthlab06\\models\\htthgender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF82413-C9D2-4BA8-993F-7A8A79417F8C}|HtthLab06\\HtthLab06.csproj|solutionrelative:htthlab06\\models\\htthgender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF82413-C9D2-4BA8-993F-7A8A79417F8C}|HtthLab06\\HtthLab06.csproj|d:\\thietkeweb1\\htthlab06\\htthlab06\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF82413-C9D2-4BA8-993F-7A8A79417F8C}|HtthLab06\\HtthLab06.csproj|solutionrelative:htthlab06\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HtthStudentController.cs",
+              "DocumentMoniker": "D:\\ThietKeWeb1\\HtthLab06\\HtthLab06\\Controllers\\HtthStudentController.cs",
+              "RelativeDocumentMoniker": "HtthLab06\\Controllers\\HtthStudentController.cs",
+              "ToolTip": "D:\\ThietKeWeb1\\HtthLab06\\HtthLab06\\Controllers\\HtthStudentController.cs",
+              "RelativeToolTip": "HtthLab06\\Controllers\\HtthStudentController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T07:13:28.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ThietKeWeb1\\HtthLab06\\HtthLab06\\Views\\HtthStudent\\Create.cshtml",
+              "RelativeDocumentMoniker": "HtthLab06\\Views\\HtthStudent\\Create.cshtml",
+              "ToolTip": "D:\\ThietKeWeb1\\HtthLab06\\HtthLab06\\Views\\HtthStudent\\Create.cshtml",
+              "RelativeToolTip": "HtthLab06\\Views\\HtthStudent\\Create.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADwAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-23T08:21:39.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ThietKeWeb1\\HtthLab06\\HtthLab06\\Views\\HtthStudent\\Index.cshtml",
+              "RelativeDocumentMoniker": "HtthLab06\\Views\\HtthStudent\\Index.cshtml",
+              "ToolTip": "D:\\ThietKeWeb1\\HtthLab06\\HtthLab06\\Views\\HtthStudent\\Index.cshtml",
+              "RelativeToolTip": "HtthLab06\\Views\\HtthStudent\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAgwDUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-23T07:23:42.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HtthStudent.cs",
+              "DocumentMoniker": "D:\\ThietKeWeb1\\HtthLab06\\HtthLab06\\Models\\HtthStudent.cs",
+              "RelativeDocumentMoniker": "HtthLab06\\Models\\HtthStudent.cs",
+              "ToolTip": "D:\\ThietKeWeb1\\HtthLab06\\HtthLab06\\Models\\HtthStudent.cs",
+              "RelativeToolTip": "HtthLab06\\Models\\HtthStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T07:10:28.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ThietKeWeb1\\HtthLab06\\HtthLab06\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "HtthLab06\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\ThietKeWeb1\\HtthLab06\\HtthLab06\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "HtthLab06\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-23T08:42:54.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\ThietKeWeb1\\HtthLab06\\HtthLab06\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "HtthLab06\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ThietKeWeb1\\HtthLab06\\HtthLab06\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "HtthLab06\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAzwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T07:29:31.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HtthBranch.cs",
+              "DocumentMoniker": "D:\\ThietKeWeb1\\HtthLab06\\HtthLab06\\Models\\HtthBranch.cs",
+              "RelativeDocumentMoniker": "HtthLab06\\Models\\HtthBranch.cs",
+              "ToolTip": "D:\\ThietKeWeb1\\HtthLab06\\HtthLab06\\Models\\HtthBranch.cs",
+              "RelativeToolTip": "HtthLab06\\Models\\HtthBranch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T07:09:38.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HtthGender.cs",
+              "DocumentMoniker": "D:\\ThietKeWeb1\\HtthLab06\\HtthLab06\\Models\\HtthGender.cs",
+              "RelativeDocumentMoniker": "HtthLab06\\Models\\HtthGender.cs",
+              "ToolTip": "D:\\ThietKeWeb1\\HtthLab06\\HtthLab06\\Models\\HtthGender.cs",
+              "RelativeToolTip": "HtthLab06\\Models\\HtthGender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T07:08:47.412Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
