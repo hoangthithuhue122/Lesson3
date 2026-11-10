@@ -1,0 +1,33 @@
+﻿@model HoangThiThuHue_241230737.Models.HangHoa
+@{
+    ViewData["Title"] = "Them hang hoa moi";
+}
+<p>HOANG THI THU HUE</p>
+<p>Them hoang hoa moi</p>
+<hr/>
+<form asp-action="Create" method="post">
+    <div>
+        <label asp-for="MaLoai"></label><br />
+        <select asp-for="MaLoai" asp-items="ViewBag.DsLoai"></select>
+    </div>
+    <div>
+        <label asp-for="TenHang"></label><br />
+        <input asp-for="TenHang" />
+        <span asp-validation-for="TenHang" style="color:red"></span>
+    </div>
+    <div>
+        <label asp-for="Gia"></label><br />
+        <input asp-for="Gia" />
+        <span asp-validation-for="Gia" style="color:red"></span>
+    </div>
+    <div>
+        <label asp-for="Anh"></label><br />
+        <input asp-for="Anh" />
+        <span asp-validation-for="Anh" style="color:red"></span>
+    </div>
+    <input type="submit" value="Create"/>
+</form>
+
+@section Scripts{
+    <partial name="_ValidationScriptsPartial" />
+}
